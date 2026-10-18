@@ -110,7 +110,9 @@ Select an athlete to examine their records and compare performance.
 
 ### 6. 📅 Year-wise Analysis
 
-A separate year-wise option is available in the application navigation for exploring Olympic history by edition. For the specific charts and records available in the deployed version, open the [live dashboard](https://find-olympics-analysis-and-records120.streamlit.app/).
+1. Top 10 Athletes in a Olympics season for a selected category M,F and Overall.
+2. Top-10 Athletes in a sport in a olympucs season (ex- Top-3 athletes in Athletics in 2012 olympics M)
+3. No of athletes participation over the years for a country  ( A line graph showing M,F and total no of athletes ).
 
 ## 🧰 Technologies Used
 
