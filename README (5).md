@@ -190,28 +190,29 @@ You can also explore the deployed interface here:
 
 **[🚀 Open the Live Olympics Dashboard](https://find-olympics-analysis-and-records120.streamlit.app/)**
 
-<strong> Some Highlights from the webapp :-
-1.Home Page 
+
+#Some Highlights from the webapp :-
+#1.Home Page 
 <img width="959" height="414" alt="image" src="https://github.com/user-attachments/assets/b156c8ed-0f41-4d3d-9817-4f72e8fa72a2" />
 
 <img width="959" height="416" alt="image" src="https://github.com/user-attachments/assets/4843f651-051e-4568-8e42-17a9bb124718" />
 
-2.Medal Tally 
+#2.Medal Tally 
 <img width="959" height="442" alt="image" src="https://github.com/user-attachments/assets/ff597546-2fe1-47b6-bde2-6e3300aaf72a" />
 
-3.  Overall Analysis
+#3.  Overall Analysis
   <img width="936" height="398" alt="image" src="https://github.com/user-attachments/assets/ad9904ca-08d0-44eb-b27d-cba2e1774442" />
   <img width="959" height="414" alt="image" src="https://github.com/user-attachments/assets/04291e4a-94c3-471a-9c13-b344e73e26f0" />
 
-4. Country Wise Analysis
+#4. Country Wise Analysis
 <img width="953" height="398" alt="image" src="https://github.com/user-attachments/assets/3d3e0a5a-3b3f-46aa-96ff-6aa7729d5128" />
 
 <img width="959" height="409" alt="image" src="https://github.com/user-attachments/assets/d3610c71-8216-430a-9fba-2f23964c6768" />
 
-5. Athlete Wise Analysis :
+#5. Athlete Wise Analysis :
 <img width="958" height="432" alt="image" src="https://github.com/user-attachments/assets/d9fe1065-8107-4c41-887f-055f01d41b19" />
 
-6. Year Wise Analysis
+#6. Year Wise Analysis
    <img width="937" height="428" alt="image" src="https://github.com/user-attachments/assets/f20ac52a-f97d-4142-9ff3-47af1efcd904" />
    
 
