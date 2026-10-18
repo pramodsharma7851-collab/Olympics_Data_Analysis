@@ -1,4 +1,6 @@
-![Uploading image.png…]()
+<img width="959" height="414" alt="image" src="https://github.com/user-attachments/assets/30a7f88d-ea8f-4ab6-a66d-f8f35938e56f" />
+
+
 
 
 # 🏅 Olympics Data Analysis
