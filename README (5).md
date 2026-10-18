@@ -223,6 +223,11 @@ This project transforms historical Summer Olympics records into an interactive d
 
 <div align="center">
 
+Try these in the webapp :
+1.TOP 3 medalist in 1500m and 5000m in 2000 olympic's.
+2. India's Medal Tally in 2012 London OLympics
+3.Most Successful Athletes of UK in swimming.
+
 **🏅 Explore Olympic history through data.**
 
 </div>
