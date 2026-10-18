@@ -164,68 +164,8 @@ Olympics_Data_Analysis_Project/
 └── requirements.txt
 ```
 
-| File or Folder | Purpose |
-|---|---|
-| `app.py` | Main Streamlit application, navigation, analysis views, charts, and tables |
-| `preprocessor.py` | Filters and prepares Olympic data for analysis |
-| `helper.py` | Reusable functions for medal tallies and athlete-, country-, year-, and sport-level analysis |
-| `athlete_events.csv` | Athlete, event, participation, and medal records |
-| `noc_regions.csv` | Mapping between NOC codes and region/country names |
-| `requirements.txt` | Python package dependencies |
-| `Olympics_rings.png` | Olympic rings image used in the repository |
-| `README_Olympics_Data_Analysis (1).md` | Existing supplementary Markdown documentation |
-| `main.py` | Additional Python script in the repository |
-| `readcsv` | Additional repository entry; its purpose is not documented in the available code |
 
-## 🚀 How to Run the Project
 
-### Prerequisites
-
-- Python installed on your computer
-- Git installed
-- A terminal or command prompt
-
-### Step 1: Clone the repository
-
-```bash
-git clone https://github.com/pramodsharma7851-collab/Olympics_Data_Analysis_Project.git
-cd Olympics_Data_Analysis_Project
-```
-
-### Step 2: Create a virtual environment
-
-**Windows PowerShell**
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-```
-
-**macOS / Linux**
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
-
-### Step 3: Install the dependencies
-
-```bash
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-### Step 4: Start the Streamlit application
-
-Run this command from the repository root:
-
-```bash
-streamlit run app.py
-```
-
-Open the local URL printed in the terminal (typically `http://localhost:8501`) in your browser.
-
-**Note:** Keep `athlete_events.csv` and `noc_regions.csv` in the repository root because the application reads them using relative file paths.
 
 ## 🖼️ Visualizations
 
