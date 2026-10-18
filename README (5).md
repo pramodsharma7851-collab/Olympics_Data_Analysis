@@ -1,4 +1,4 @@
-<div align="center">
+<img width="959" height="449" alt="image" src="https://github.com/user-attachments/assets/28760693-76b3-4ed6-98e2-767a6a5ba0ec" /><div align="center">
 
 # 🏅 Olympics Data Analysis
 
@@ -184,6 +184,16 @@ The application uses charts, tables, and heatmaps to help explore medal performa
 You can also explore the deployed interface here:
 
 **[🚀 Open the Live Olympics Dashboard](https://find-olympics-analysis-and-records120.streamlit.app/)**
+
+Some Highlights from the webapp :-
+1.Home Page 
+<img width="959" height="449" alt="image" src="https://github.com/user-attachments/assets/6455670b-492d-40b5-a35f-23a08e7e5b85" />
+<img width="959" height="416" alt="image" src="https://github.com/user-attachments/assets/4843f651-051e-4568-8e42-17a9bb124718" />
+
+2.Medal Tally 
+<img width="959" height="442" alt="image" src="https://github.com/user-attachments/assets/ff597546-2fe1-47b6-bde2-6e3300aaf72a" />
+
+
 
 ## ✅ Conclusion
 
