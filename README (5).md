@@ -190,7 +190,7 @@ You can also explore the deployed interface here:
 
 **[🚀 Open the Live Olympics Dashboard](https://find-olympics-analysis-and-records120.streamlit.app/)**
 
-Some Highlights from the webapp :-
+<strong> Some Highlights from the webapp :-
 1.Home Page 
 <img width="959" height="414" alt="image" src="https://github.com/user-attachments/assets/b156c8ed-0f41-4d3d-9817-4f72e8fa72a2" />
 
