@@ -15,7 +15,7 @@
   <strong>VIEW SOURCE CODE</strong>
 </a>
 
-<img src="Olympics_rings.png" alt="Olympic rings" width="220">
+
 
 </div>
 
